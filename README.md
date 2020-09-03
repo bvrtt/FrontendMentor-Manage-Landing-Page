@@ -1,4 +1,4 @@
-# FrontendMentor-Insure-Landing-Page
+# FrontendMentor-Manage-Landing-Page
 
 ## Live code : https://sleepy-einstein-9b5515.netlify.app/
 
